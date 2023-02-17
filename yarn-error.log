@@ -1,0 +1,56 @@
+Arguments: 
+  /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/share/yarn/bin/yarn.js
+
+PATH: 
+  /data/data/com.termux/files/usr/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.12.1
+
+Platform: 
+  android arm64
+
+Trace: 
+  Error: EPERM: operation not permitted, symlink '../../../../pino/bin.js' -> '/storage/emulated/0/zassV1/node_modules/@adiwajshing/baileys/node_modules/.bin/pino'
+
+npm manifest: 
+  {
+    "name": "𝙼𝚎𝚕𝚕𝚒𝚊𝙵𝚛𝚒𝚜𝚔𝚊",
+    "version": "1.0.0",
+    "description": "Script By Amel",
+    "main": "main.js",
+    "scripts": {
+      "start": "node main.js"
+    },
+    "author": "𝙼𝚎𝚕𝚕𝚒𝚊𝙵𝚛𝚒𝚜𝚔𝚊",
+    "license": "ISC",
+    "dependencies": {
+      "@adiwajshing/baileys": "^4.4.0",
+      "@adiwajshing/keyed-db": "^0.2.4",
+      "@bochilteam/scraper": "^3.0.0",
+      "chalk": "^4.1.2",
+      "colors": "^1.4.0",
+      "fluent-ffmpeg": "^2.1.2",
+      "form-data": "^4.0.0",
+      "got": "^12.5.3",
+      "jimp": "^0.16.2",
+      "moment-timezone": "^0.5.34",
+      "node-fetch": "^2.6.1",
+      "node-webpmux": "^3.1.3",
+      "path": "^0.12.7",
+      "qrcode": "^1.5.0",
+      "qrcode-terminal": "^0.12.0",
+      "scrape-primbon": "^1.1.0",
+      "tod-api": "^1.0.5",
+      "ytmp": "^1.1.1"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

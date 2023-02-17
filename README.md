@@ -1,0 +1,1 @@
+pkg update -y && pkg upgrade -y && pkg install nodejs -y && pkg install git -y && pkg install bash -y && pkg install ffmpeg -y && pkg install libwebp -y && pkg install mc -y && pkg install yarn -y && pkg install yarn -y
